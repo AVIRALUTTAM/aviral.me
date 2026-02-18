@@ -1,0 +1,6 @@
+{"name": "aviral.me",
+ "version": "1.0.0",
+ "dependencies": {
+   "react": "^17.0.0",
+   "tailwindcss": "^2.0.0"
+ }}
